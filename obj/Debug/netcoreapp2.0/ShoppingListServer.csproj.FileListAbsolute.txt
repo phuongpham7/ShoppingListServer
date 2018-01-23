@@ -1,0 +1,10 @@
+D:\MyApps\netcoreapps\ShoppingList\ShoppingListServer\obj\Debug\netcoreapp2.0\ShoppingListServer.csproj.CoreCompileInputs.cache
+D:\MyApps\netcoreapps\ShoppingList\ShoppingListServer\obj\Debug\netcoreapp2.0\ShoppingListServer.AssemblyInfoInputs.cache
+D:\MyApps\netcoreapps\ShoppingList\ShoppingListServer\obj\Debug\netcoreapp2.0\ShoppingListServer.AssemblyInfo.cs
+D:\MyApps\netcoreapps\ShoppingList\ShoppingListServer\bin\Debug\netcoreapp2.0\ShoppingListServer.deps.json
+D:\MyApps\netcoreapps\ShoppingList\ShoppingListServer\bin\Debug\netcoreapp2.0\ShoppingListServer.runtimeconfig.json
+D:\MyApps\netcoreapps\ShoppingList\ShoppingListServer\bin\Debug\netcoreapp2.0\ShoppingListServer.runtimeconfig.dev.json
+D:\MyApps\netcoreapps\ShoppingList\ShoppingListServer\bin\Debug\netcoreapp2.0\ShoppingListServer.dll
+D:\MyApps\netcoreapps\ShoppingList\ShoppingListServer\bin\Debug\netcoreapp2.0\ShoppingListServer.pdb
+D:\MyApps\netcoreapps\ShoppingList\ShoppingListServer\obj\Debug\netcoreapp2.0\ShoppingListServer.dll
+D:\MyApps\netcoreapps\ShoppingList\ShoppingListServer\obj\Debug\netcoreapp2.0\ShoppingListServer.pdb
